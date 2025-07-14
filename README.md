@@ -67,5 +67,4 @@ I'm a passionate junior fullstack developer based in Uzbekistan. I enjoy buildin
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
 
