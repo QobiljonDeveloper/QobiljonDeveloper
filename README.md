@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Qobiljon</h1>
-<h3 align="center">A Junior Fullstack Developer from Uzbekistan</h3>
+<h3 align="center">A Fullstack Developer from Uzbekistan</h3>
 
 ---
 
