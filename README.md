@@ -70,15 +70,15 @@ I'm a passionate junior fullstack developer based in Uzbekistan. I enjoy buildin
 ### 📈 GitHub Stats
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QobiljonDeveloper&show_icons=true&theme=tokyonight&hide=prs)
+  <img src="https://github-readme-stats.vercel.app/api?username=QobiljonDeveloper&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=QobiljonDeveloper&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=QobiljonDeveloper&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QobiljonDeveloper&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QobiljonDeveloper&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
