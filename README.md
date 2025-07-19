@@ -76,16 +76,7 @@ I'm a passionate junior fullstack developer based in Uzbekistan. I enjoy buildin
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QobiljonDeveloper&layout=compact&theme=tokyonight)
 
 
----
 
-### 🧠 Currently Learning
-
-- Advanced TypeScript Patterns  
-- NestJS Best Practices  
-- MongoDB Aggregation Pipelines  
-- Building Scalable REST APIs
-
----
 
 ### 💡 Fun Facts
 
